@@ -1,3 +1,7 @@
+# SongBPMLookup
+Python script to lookup song BPMs from a list of albums
+BPM data provided by [GetSongBPM](https://getsongbpm.com).
+
 # Discogs Synth Finder
 
 Finds synthesizer credits on the Funk / Soul and Jazz-Funk releases in your Discogs collection, then writes an Excel report.
