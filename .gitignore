@@ -1,0 +1,8 @@
+.env
+.venv/
+cache/
+__pycache__/
+output/
+google-service-account.json
+/*.json
+.DS_Store
